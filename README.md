@@ -11,17 +11,13 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Covid-19 Tracker](https://covid-19-tracker-e4bda.web.app/)**
+- 🔭 I’m currently working on **[Music Bot](https://top.gg/bot/880851427747053568)**
 
-- 🌱 I’m currently learning **Data Structures and Algorithms.**
+- 🌱 I’m currently learning **JavaScript.**
 
-- 👯 I’m looking to collaborate on **OpenSource Projects**
+- 📫 How to reach me **bwww0333@gmail.com**
 
-- 👨‍💻 All of my projects are available at **[My Portfolio](https://subhamraoniar.com)**
-
-- 📫 How to reach me **subham.raoniar@gmail.com**
-
-- ⚡ Fun fact **I play games and go to the GYM very often.**
+- ⚡ Fun fact **I play games and do graphic designs.**
 
 ## 🚀 Languages and Tools:
 
