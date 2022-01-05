@@ -1,4 +1,12 @@
-### Hi there 👋
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on **[Music Bot](https://top.gg/bot/880851427747053568)**
+
+- 🌱 I’m currently learning **JavaScript.**
+
+- 📫 How to reach me **bwww0333@gmail.com**
+
+- ⚡ Fun fact **I play games and do graphic designs.**
 
 <!--
 **Kangurp/Kangurp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -9,15 +17,7 @@
 <h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
 
 
-## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Music Bot](https://top.gg/bot/880851427747053568)**
-
-- 🌱 I’m currently learning **JavaScript.**
-
-- 📫 How to reach me **bwww0333@gmail.com**
-
-- ⚡ Fun fact **I play games and do graphic designs.**
 
 ## 🚀 Languages and Tools:
 
