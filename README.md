@@ -18,15 +18,6 @@
     </a>
 </p>
 
-
-## Connect with me:
-<p align="left">
-
-<a href = "https://discord.gg/armin"><img src="https://cdn.discordapp.com/attachments/883058694546391051/928329185582268416/2111370.png"/></a>
-
-
-</p>
-
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Kangurp">
