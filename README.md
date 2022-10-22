@@ -1,12 +1,12 @@
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Music Bot](https://top.gg/bot/880851427747053568)**
+- 🔭 Html&Css developer, UIX designer and potential artist
 
-- 🌱 I’m currently learning **JavaScript.**
+- 🌱 I’m currently learning **JavaScript / React.js**
 
-- 📫 How to reach me **bwww0333@gmail.com**
+- 📫 Reach me on discord: Kangaroo#6969**
 
-- ⚡ Fun fact **I play games and do graphic designs.**
+- ⚡ Open for new commission based orders!
 
 
 <!-- [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#)  [![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![GraphQL Badge](https://img.shields.io/badge/-GraphQl-e535ab?style=for-the-badge&labelColor=black&logo=node.js&logoColor=e535ab)](#) -->
